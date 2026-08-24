@@ -1,0 +1,13 @@
+{
+  "name": "weatherwave-app",
+  "version": "1.0.0",
+  "main": "video-generation-server.js",
+  "scripts": {
+    "start": "node video-generation-server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0",
+    "dotenv": "^16.4.5"
+  }
+}
